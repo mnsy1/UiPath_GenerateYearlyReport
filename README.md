@@ -7,7 +7,6 @@ This repository contains an RPA project developed using UiPath to automate the p
 This project uses the following custom libraries:
 
 1. [**ACME System1 Website Library**](https://github.com/mnsy1/UiPath_ACMESystem1): Automates interactions with the ACME System1 website (web automation).
-2. **SHA1 Hash Generator**: Handles the secure generation of the client security hash using the SHA1 algorithm.
 
 ## 📖 Project Overview
 
